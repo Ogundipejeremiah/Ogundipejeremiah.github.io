@@ -4,7 +4,8 @@ title: Sales Dashboard (2022)
 permalink: /sales-dashboard/
 ---
 
-![Sales Dashboard Screenshot](/pages/sales-dashboard.png)
+![Sales Dashboard Screenshot](/assets/images/sales-dashboard.png)
+
 
 
 ## 📊 Project Overview
