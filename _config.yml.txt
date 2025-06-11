@@ -1,0 +1,10 @@
+title: Ogundipe Jeremiah
+description: >- 
+  Data Analyst | Python • SQL • Power BI • Tableau  
+  Passionate about transforming data into decisions and telling stories with insights.
+
+theme: jekyll-theme-minimal
+
+github_username: ogundipejeremiah
+linkedin_username: ogundipejeremiah
+email: ogundipejeremiah1999@gmail.com
