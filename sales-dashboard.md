@@ -4,7 +4,7 @@ title: Sales Dashboard (2022)
 permalink: /sales-dashboard/
 ---
 
-![Sales Dashboard Screenshot](/assets/images/sales-dashboard.png)
+![Sales Dashboard Screenshot](C:\Users\user\OneDrive\Documents\Ogundipejeremiah.github.io\assets\images\sales-dashboard.png)
 
 
 
