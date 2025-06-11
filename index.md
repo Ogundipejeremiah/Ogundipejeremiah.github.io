@@ -7,10 +7,12 @@ I enjoy exploring data, extracting insights, and telling compelling stories that
 
 ## 📊 Projects
 
-### 🧾 Retail Sales Dashboard  
-**Tools**: Power BI, SQL  
-Built an interactive dashboard that visualizes sales trends and highlights key performance areas for a fictional retail company.  
-👉 [View on GitHub](https://github.com/ogundipejeremiah/retail-sales-dashboard)
+## 📁 Featured Projects
+
+### [Sales Dashboard (Tableau)](/sales-dashboard)
+📊 A dynamic sales dashboard built with Tableau to visualize product and regional sales performance.  
+🖼️ ![View the dashboard](/assets/images/sales-dashboard.png)
+
 
 ### 🔄 Customer Churn Analysis  
 **Tools**: Python, Pandas, Matplotlib  
