@@ -4,7 +4,8 @@ title: Sales Dashboard (2022)
 permalink: /sales-dashboard/
 ---
 
-![Sales Dashboard Screenshot](/assets/images/sales-dashboard.png)
+![Sales Dashboard Screenshot](/pages/sales-dashboard.png)
+
 
 ## 📊 Project Overview
 This interactive Tableau dashboard provides a detailed breakdown of sales performance in 2022, comparing it with the previous year (2021). The goal was to uncover high-performing subcategories, detect profit trends, and evaluate customer demand throughout the year.
