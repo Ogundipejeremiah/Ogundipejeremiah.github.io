@@ -1,28 +1,32 @@
-# 👋 Hello, I'm Ogundipe Jeremiah
+---
+layout: home
+title: Jeremiah Ogundipe
+subtitle: Data Analyst | Tableau • Power BI • Python • SQL
+---
 
-I'm a Data Analyst with a strong foundation in **Python, SQL, Power BI**, and **Tableau**.  
-I enjoy exploring data, extracting insights, and telling compelling stories that drive decisions.
+## 👋 Welcome
+
+Hi, I'm **Jeremiah Ogundipe**, a passionate data analyst with experience in uncovering insights using data visualization and analytics tools like Tableau, Power BI, SQL, and Python.
+
+I love turning data into actionable stories and building dashboards that help people make better decisions.
 
 ---
 
-## 📊 Projects
+## 🚀 Projects
 
-## 📁 Featured Projects
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-### [Sales Dashboard (Tableau)](/sales-dashboard)
-📊 A dynamic sales dashboard built with Tableau to visualize product and regional sales performance.  
-🖼️ ![View the dashboard](/assets/images/sales-dashboard.png)
+### 📊 [Sales Dashboard (Tableau)](/sales-dashboard)
+![Sales Dashboard Screenshot](/assets/images/sales-dashboard.png)
+A regional sales performance dashboard built using Tableau.  
+🔗 [View on Tableau](https://public.tableau.com/app/profile/jeremiah.ogundipe/viz/SALESDASHBOARD_17424897581460/Dashboard1)
 
-
-### 🔄 Customer Churn Analysis  
-**Tools**: Python, Pandas, Matplotlib  
-Performed EDA and predictive modeling to understand and reduce customer churn in a telecom dataset.  
-👉 [View on GitHub](https://github.com/ogundipejeremiah/customer-churn-analysis)
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🔗 Connect With Me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeremiah-ogundipe-252b93303)
+- 🐙 [GitHub](https://github.com/Ogundipejeremiah)
 - 📧 [Email me](mailto:ogundipejeremiah1999@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ogundipejeremiah)
-- 🖥️ [GitHub](https://github.com/ogundipejeremiah)
